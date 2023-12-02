@@ -1,48 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="600" viewBox="0 0 600 600" xml:space="preserve">
-    <defs></defs>
-    <g transform="matrix(1 0 0 1 540 540)" id="463777de-51a3-4c50-9652-64937f4f5d76">
-        <rect
-            style="
-                stroke: none;
-                stroke-width: 1;
-                stroke-dasharray: none;
-                stroke-linecap: butt;
-                stroke-dashoffset: 0;
-                stroke-linejoin: miter;
-                stroke-miterlimit: 4;
-                fill: rgb(255, 255, 255);
-                fill-rule: nonzero;
-                opacity: 1;
-                visibility: hidden;
-            "
-            vector-effect="non-scaling-stroke"
-            x="-540"
-            y="-540"
-            rx="0"
-            ry="0"
-            width="1080"
-            height="1080"
-        />
-    </g>
-    <g transform="matrix(1 0 0 1 540 540)" id="41d36cf2-d75b-4129-99c3-dfaaf8c24bb1"></g>
-    <g transform="matrix(2.92 0 0 2.92 540 540)" id="SvgjsG3365">
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="1.7177 2.6648 236.52 256.96" xmlns="http://www.w3.org/2000/svg">
+    <g transform="matrix(2.9200000762939453, 0, 0, 2.9200000762939453, 119.97768402099612, 131.1383819580078)" id="SvgjsG3365">
         <linearGradient id="SVGID_SvgjsLinearGradient3369_3" gradientUnits="objectBoundingBox" gradientTransform="matrix(1 0 0 1 0 0)" x1="0" y1="0" x2="1" y2="0">
-            <stop offset="0%" style="stop-color: rgb(251, 176, 64); stop-opacity: 1;" />
-            <stop offset="100%" style="stop-color: rgb(249, 237, 50); stop-opacity: 1;" />
+            <stop offset="0" style="stop-color: rgb(251, 176, 64); stop-opacity: 1;" />
+            <stop offset="1" style="stop-color: rgb(249, 237, 50); stop-opacity: 1;" />
         </linearGradient>
         <path
-            style="
-                stroke: none;
-                stroke-width: 1;
-                stroke-dasharray: none;
-                stroke-linecap: butt;
-                stroke-dashoffset: 0;
-                stroke-linejoin: miter;
-                stroke-miterlimit: 4;
-                fill: url(#SVGID_SvgjsLinearGradient3369_3);
-                fill-rule: evenodd;
-                opacity: 1;
-            "
+            style="&#10;                stroke: none;&#10;                stroke-width: 1;&#10;                stroke-dasharray: none;&#10;                stroke-linecap: butt;&#10;                stroke-dashoffset: 0;&#10;                stroke-linejoin: miter;&#10;                stroke-miterlimit: 4;&#10;                fill: url(#SVGID_SvgjsLinearGradient3369_3);&#10;                fill-rule: evenodd;&#10;                opacity: 1;&#10;            "
             transform=" translate(-50, -1002.36)"
             d="M 49.999998 958.36217 C 45.131398 958.36217 41.038197999999994 961.93016 40.218798 966.58092 C 22.570298 970.9644 9.499997999999998 986.89135 9.499997999999998 1005.8622 C 9.499997999999998 1011.5439 10.695897999999998 1016.9865 12.812597999999998 1021.8934 C 10.794197999999998 1023.7079 9.499997999999998 1026.3257 9.499997999999998 1029.2372 C 9.499997999999998 1034.679 13.964398 1039.1122 19.406298 1039.1122 C 21.378398 1039.1122 23.234098 1038.5542 24.781298 1037.5497 C 31.698998 1043.077 40.469698 1046.3622 49.999998 1046.3622 C 59.498397999999995 1046.3622 68.249402 1043.0978 75.156302 1037.6122 C 76.705502 1038.6086 78.563102 1039.1747 80.531302 1039.1747 C 86.00500199999999 1039.1747 90.468802 1034.7109 90.468802 1029.2372 C 90.468802 1026.337 89.215502 1023.7171000000001 87.218802 1021.8934 C 89.333002 1016.9792 90.500002 1011.5471 90.500002 1005.8622 C 90.500002 986.88778 77.425702 970.96103 59.78129799999999 966.58092 C 58.96169799999999 961.93348 54.87409799999999 958.36217 49.99999799999999 958.36217 z M 40.374998 970.67467 C 41.448698 974.99202 45.363898 978.20592 49.999998 978.20592 C 54.642998 978.20592 58.584398 974.99144 59.656298 970.67467 C 75.133002 974.90255 86.500002 989.02109 86.500002 1005.8622 C 86.500002 1010.812 85.525302 1015.5352 83.750002 1019.8309 C 82.73580199999999 1019.48 81.66080199999999 1019.2684 80.531302 1019.2684 C 75.057602 1019.2684 70.562602 1023.7635 70.562602 1029.2372 C 70.562602 1031.2917 71.203402 1033.2095 72.281302 1034.7997 C 66.122202 1039.5553 58.399297999999995 1042.3622 49.999998 1042.3622 C 41.562898 1042.3622 33.798198 1039.5098 27.624997999999998 1034.7059 C 28.674698 1033.1359 29.312597999999998 1031.2569999999998 29.312597999999998 1029.2372 C 29.312597999999998 1023.7953 24.848097999999997 1019.3309 19.406298 1019.3309 C 18.317998 1019.3309 17.262698 1019.5025 16.281298 1019.8309 C 14.494798 1015.5325 13.499998 1010.8198 13.499998 1005.8622 C 13.499998 989.02389 24.893098000000002 974.90529 40.374998 970.67467 z"
             stroke-linecap="round"
